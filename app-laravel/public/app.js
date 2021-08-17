@@ -19,7 +19,7 @@ function load() {
     });
 
     var requestOptions = {
-      method: 'POST',
+      method: 'GET',
       headers: myHeaders,
       body: raw,
       redirect: 'follow'
