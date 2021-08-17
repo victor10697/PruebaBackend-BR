@@ -1,2 +1,0 @@
-# PruebaBackend-Senior
-PruebaBackend-Senior
